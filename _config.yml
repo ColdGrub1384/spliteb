@@ -49,7 +49,7 @@ features                                  :
     fontawesome_icon_name                 : terminal
 
   - title                                 : Style *
-    description                           : Modify CSS attributes.
+    description                           : Modify CSS stylesheets.
     fontawesome_icon_name                 : scroll
 
   - title                                 : Storage *
