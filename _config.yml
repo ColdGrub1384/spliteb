@@ -51,6 +51,10 @@ features                                  :
   - title                                 : Style *
     description                           : Modify CSS stylesheets.
     fontawesome_icon_name                 : scroll
+    
+  - title                                 : Resources *
+    description                           : Browse loaded resources.
+    fontawesome_icon_name                 : folder
 
   - title                                 : Storage *
     description                           : Manage cookies and storage.
