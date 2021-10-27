@@ -1,5 +1,5 @@
 #page title
-page_title                                : SourceWeb - Web Inspector for Safari # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Spliteb - Web Inspector for Safari # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 1575315850 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -10,7 +10,7 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : SourceWeb # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Spliteb # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : $4.99
 app_description                           : Web Inspector for Safari
 
@@ -37,7 +37,7 @@ youtube_username                          :
 features                                  :
     
   - title                                 : Web Inspector
-    description                           : SourceWeb is a web inspector for Safari on iOS and iPadOS.
+    description                           : Spliteb is a web inspector for Safari on iOS and iPadOS.
     fontawesome_icon_name                 : bug
     
   - title                                 : Inspect Elements
